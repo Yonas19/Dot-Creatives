@@ -1,0 +1,10 @@
+{
+  "description": "Showcase creative services through engaging visuals and digital storytelling, featuring a dynamic portfolio and easy navigation for potential clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
