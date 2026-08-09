@@ -6,11 +6,11 @@ import { SERVICES, ServiceCard } from "@/shared";
 import logoImg from "@/imports/1-removebg-preview.png";
 import heroBg from "@/imports/hero2__1___1_.mp4";
 import aboutVid from "@/imports/1003__3_-copy-copy-1.mp4";
-import bts1 from "@/imports/IMG_0285.png";
-import bts2 from "@/imports/IMG_0286.png";
-import bts3 from "@/imports/IMG_0287.png";
-import bts4 from "@/imports/IMG_0288.png";
-import spotlightImg from "@/imports/IMG_0292.png";
+import bts1 from "@/imports/IMG_0285.PNG";
+import bts2 from "@/imports/IMG_0286.PNG";
+import bts3 from "@/imports/IMG_0287.PNG";
+import bts4 from "@/imports/IMG_0288.PNG";
+import spotlightImg from "@/imports/IMG_0292.PNG";
 
 
 const PREVIEW_VIDEOS = [
