@@ -3,7 +3,7 @@ import { Link } from "react-router";
 import logoImg from "@/imports/1-removebg-preview.png";
 import heroBg from "src/imports/hero2__1___1_.mp4";
 import aboutVid from "src/imports/IMG_0285.png";
-import bts1 from "src/imports/IMG_0285.png";
+import bts1 from "src/imports/IMG_0285.PNG";
 import bts2 from "src/imports/IMG_0286.png";
 import bts3 from "src/imports/IMG_0287.png";
 import bts4 from "src/imports/IMG_0288.png";
